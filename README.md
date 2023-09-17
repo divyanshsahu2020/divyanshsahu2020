@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java,FullStack Development.**
 
-- 👯 I’m looking to collaborate on **Projects based on AI ML**
+- 👯 I’m looking to collaborate on **Projects based on AI ML and Data Analytics**
 
 - 📫 How to reach me **divyanshsahu12@gmail.com**
 
