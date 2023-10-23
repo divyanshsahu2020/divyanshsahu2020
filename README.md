@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Divyansh Sahu</h1>
 <h3 align="center">A Passionate Coder and a Problem Solver</h3>
 
-- 🌱 I’m currently learning **Java,FullStack Development.**
+- 🌱 I’m currently learning **FullStack Development.**
 
 - 👯 I’m looking to collaborate on **Projects based on AI ML and Data Analytics**
 
